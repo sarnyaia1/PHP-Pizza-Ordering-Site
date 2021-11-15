@@ -1,0 +1,22 @@
+1. Admin:
+    - Featured: szükséges-e?
+  Ákos: Nem.
+  Ármin: Kivettem
+  -- Lezárva --
+
+2. Menü:
+  - Legyen-e fixálva?
+Ákos: jobb lenne
+
+3. Legyen-e az oldal tetejére ugrás gomb?
+Ákos: szerintem nem hosszú az oldal úgyhogy felesleges bajlódás, de ha akarsz nyugodtan tedd bele
+Ármin: Rendben, kihagyom
+-- Lezárva --
+
+4. Kezdőlapon csak pár kiemelt kínálatot jelenítsünk-e, meg és az "Összes pizza megjelenítése" gombbal hozzuk-e fel a többi pizzát az "Étlapra" való ugrással?
+Ákos: Aha, mehet így!
+Ármin: Tanár úr nem kérte
+-- Lezárva --
+
+
+HELLO BABY!

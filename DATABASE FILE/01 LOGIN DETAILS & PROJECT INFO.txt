@@ -1,0 +1,15 @@
+-localhost/phpadmin
+
+-adatbázisok
+
+-új adatbázis: onlinefoodorder
+
+-importálás : database.sql
+
+-inditas
+
+-> ADMIN login
+
+Username: admin
+Password: 123456
+

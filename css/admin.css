@@ -1,0 +1,176 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+  padding: 1%;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.clearfix {
+  float: none;
+  clear: both;
+}
+
+/* CSS Login */
+
+h1 {
+  margin: 30px;
+  text-decoration: underline;
+}
+
+.login-input {
+  width: 30%; 
+  padding: 20px;
+  margin: 20px;
+  background-color: #eed995;
+}
+
+.login-label {
+  font-size: 2em;
+}
+
+/* Tablazat CCS */
+
+.tbl-full {
+  width: 100%;
+}
+.tbl-30 {
+  width: 30%;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+  background-color: #f5f5f5;
+}
+
+table tr th {
+  border-bottom: 1px solid black;
+  padding: 1%;
+  text-align: left;
+}
+
+table tr td {
+  padding: 1%;
+}
+
+/* Buttons CSS */
+
+.btn-primary {
+  background-color: rgb(145, 105, 35);
+  border-radius: 5px;
+  padding: 1%;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+.btn-primary:hover {
+  background-color: #ec482b;
+}
+
+.btn-secondary {
+  background-color: #7bed9f;
+  padding: 1%;
+  border-radius: 5px;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+.btn-secondary:hover {
+  background-color: #2ed573;
+}
+
+.btn-danger {
+  background-color: #ff6b81;
+  padding: 1%;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+.btn-danger:hover {
+  background-color: #e97345;
+}
+
+/* Response messages */
+
+.success {
+  color: green;
+  font-weight: bold;
+  margin: 5px;
+}
+.error {
+  color: red;
+  font-weight: bold;
+  margin: 5px;
+}
+
+/* CSS - Menu */
+.menu {
+  border-bottom: 1px solid grey;
+  background-color: rgb(145, 105, 35);
+}
+.menu ul {
+  list-style-type: none;
+}
+.menu ul li {
+  display: inline;
+  padding: 1%;
+}
+.menu ul li a {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+  border-radius: 5px;
+  background-color: #eed995;
+  padding: 10px;
+}
+.menu ul li a:hover {
+  color: white;
+}
+
+/* CSS - Main */
+.main-content {
+  background-color: white;
+  padding: 3% 0;
+}
+
+.col-4 {
+  width: 18%;
+  color: white;
+  margin: 1%;
+  padding: 2%;
+  float: left;
+  background-color: rgb(145, 105, 35);
+  border-radius: 5px;
+}
+ 
+
+/* CSS - Footer */
+.footer {
+  background-color: rgb(145, 105, 35);
+  color: white;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
