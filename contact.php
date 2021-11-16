@@ -47,14 +47,14 @@
                     $customer_email = $_POST['email'];
                     $customer_response = $_POST['response'];
 
-                    $sql5 = "INSERT INTO tbl_response SET 
+                    $sql9 = "INSERT INTO tbl_response SET 
                         response_date = '$response_date',
                         customer_name = '$customer_name',
                         customer_contact = '$customer_contact',
                         customer_email = '$customer_email',
                         customer_response = '$customer_response'";
 
-                    $res5 = mysqli_query($conn, $sql5);
+                    $res5 = mysqli_query($conn, $sql9);
 
                     if($res5==true) {
                         $_SESSION['response'] = "<div class='success text-center'>Köszönjük a visszajelzését!</div>";

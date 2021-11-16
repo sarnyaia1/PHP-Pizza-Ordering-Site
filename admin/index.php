@@ -68,6 +68,7 @@
                     <br />
                     Függő megrendelések
                 </div>
+                
 
                 <div class="col-4 text-center">
                     
@@ -108,6 +109,19 @@
                     <h2><?php echo $count8; ?></h2>
                     <br />
                     Adminok
+                </div>
+
+                <div class="col-4 text-center">
+                    
+                    <?php 
+                        $sql9 = "SELECT * FROM tbl_response";
+                        $res9 = mysqli_query($conn, $sql9);
+                        $count9 = mysqli_num_rows($res9);
+                    ?>
+
+                    <h2><?php echo $count9; ?></h2>
+                    <br>
+                    Visszajelzések
                 </div>
 
                 <div class="clearfix"></div>

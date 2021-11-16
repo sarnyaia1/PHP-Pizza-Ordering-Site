@@ -20,6 +20,7 @@
      .footer {
         position: static;
         bottom: 0;
+        left: 0;
         top: auto;
         width: 100%;
      }

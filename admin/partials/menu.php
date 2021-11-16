@@ -20,6 +20,7 @@
                     <li><a href="manage-food.php">Étlap</a></li>
                     <li><a href="manage-order.php">Rendelések</a></li>
                     <li><a href="manage-admin.php">Adminok kezelése</a></li>
+                    <li><a href="response.php">Visszajelzések</a></li>
                     <li><a href="logout.php">Kijelentkezés</a></li>
                 </ul>
             </div>

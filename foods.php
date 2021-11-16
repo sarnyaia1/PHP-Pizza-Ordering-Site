@@ -71,7 +71,8 @@
             <div class="clearfix"></div>
 
         </div>
-
+    
     </section>
+    <hr>
 
 <?php include('partials-front/footer.php'); ?>
